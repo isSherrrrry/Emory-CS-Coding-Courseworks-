@@ -1,0 +1,10 @@
+Total: 96 
+
+Bitmap:
+	Image is inverted (-2pts)
+
+
+Sepia:
+	Rounding Errors (-2pts)
+
+

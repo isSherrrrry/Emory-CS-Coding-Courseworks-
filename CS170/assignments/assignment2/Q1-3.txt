@@ -1,0 +1,22 @@
+1.
+1)incorrect
+2)incorrect
+3)incorrect
+4)incorrect
+5)correct
+6)correct
+
+2. 
+cannot declare and give values to mutiple variables in a same line.
+
+public class Main {
+    public static void main(String[] args) {
+        int i,j,k;
+        i = j = k = 2;
+        System.out.println(i + " " + j + " " + k);
+    }
+}
+
+3.
+Valid: miles, Tests, $4, apps, x, y, radius
+Java Keywords: class, public, int
